@@ -17,6 +17,8 @@ Este tutorial é voltado para iniciantes em Python. Ele abrange os conceitos fun
 | 5  | Funções                         | [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&size=small)](https://youtu.be/q8NXYvPnBcc)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/INCT-MatInfo-Tutoriais/blob/main/notebooks/python_modulo1/05-Funcoes.ipynb) |
 | 6  | Orientação a Objeto             | [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&size=small)](https://youtu.be/xzlurdPFvdg)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/INCT-MatInfo-Tutoriais/blob/main/notebooks/python_modulo1/06-POO.ipynb) |
 
+A playlist deste módulo pode ser acessada [aqui](https://www.youtube.com/playlist?list=PLnXOD8WfZ6vYiTznJs0pQKXgOorHQftxr).
+
 ### Módulo 2 - Aplicações
 
 | #  | Tópico                             | Vídeo                                                                                     | Notebook                                                                                                                       |
@@ -26,7 +28,10 @@ Este tutorial é voltado para iniciantes em Python. Ele abrange os conceitos fun
 | 9  | Manipulando Tabelas               | [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&size=small)](https://youtu.be/bSf7ULf6k78)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/INCT-MatInfo-Tutoriais/blob/main/notebooks/python_modulo2/09-ManipulandoTabelas.ipynb) |
 | 10 | Visualizando Dados                | [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&size=small)]( https://youtu.be/pzPXNqNQxi4)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/INCT-MatInfo-Tutoriais/blob/main/notebooks/python_modulo2/10-VisualizandoDados.ipynb) |
 | 11 | Scripts                           | [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&size=small)](https://youtu.be/6WY5DEtC-Yw)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simcomat/INCT-MatInfo-Tutoriais/blob/main/notebooks/python_modulo2/11-Scripts.ipynb) |
-| 12 | Instalação Local e Variáveis de Ambiente       | [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&size=small)](https://youtu.be/Fgk6aM8QYbI)                |              --                                                                                                            
+| 12 | Instalação Local e Variáveis de Ambiente       | [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&size=small)](https://youtu.be/Fgk6aM8QYbI)                |              --     |                                                        
+
+A playlist deste módulo pode ser acessada [aqui](https://www.youtube.com/playlist?list=PLnXOD8WfZ6vafJzVhXL8tIl0CE9oqtFNE).
+
 ## Tutorial - Machine Learning
 
 Em breve!
